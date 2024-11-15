@@ -4,7 +4,9 @@ Manjaro + Xfce + i3 on respberry pi
 
 * Refresh micro SD card & Install OS on SD card
 KIOXIA microSDHC UHS-I card
-https://docs.pikvm.org/flashing_os/#using-linux-cli-advanced-users
+![how to flash microSDHC for raspberrypi 4B](format02.jpg)
+
+ref: https://docs.pikvm.org/flashing_os/#using-linux-cli-advanced-users
 
 * Get manjaro OS
 
